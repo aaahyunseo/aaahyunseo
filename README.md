@@ -1,4 +1,13 @@
-## aaahyunseo 🍀
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:72EDF2,100:5151E5&height=300&section=header&fontColor=FFFFFF&text=Hyunseo's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=5151E5" alt="Example Usage - README Typing SVG">
+</p>
+
+<br />
+<br />
 
 <!--
 **aaahyunseo/aaahyunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> 💻 Tech Stack 💻</h3>
+<div align="center" style="margin-top: 15px;">
+<h1>  💻 Tech Stack 💻  </h1>
 <h4 align="center"> Techs that I've used at least once</h4>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
@@ -43,8 +54,33 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
 
-### Statistics
+<div align="center" style="margin-top: 15px;">
+<h1> 🪄 Statistics 🪄 </h1>
 <div align="center">
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
+</div>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+
+<h1> 👾 SNS 👾 </h1>
+<!-- <a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
+      <img src="http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=naver&logoColor=white">
+    </a> -->
+
+<a href="https://www.instagram.com/a._.agustj/" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+    <a href="aaahyunseo@mju.ac.kr" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+            
+</div>
+
+<br />
+
+<br />
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:72EDF2,100:5151E5&height=100&section=footer" />
 </div>
