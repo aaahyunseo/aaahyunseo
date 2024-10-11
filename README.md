@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp <br>
-  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
@@ -65,9 +64,9 @@ Here are some ideas to get you started:
 <div align="center" style="margin-top: 15px;">
 
 <h1> 👾 SNS 👾 </h1>
-<!-- <a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
-      <img src="http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=naver&logoColor=white">
-    </a> -->
+<a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
+      <img src="http://img.shields.io/badge/Naver-32cd32?style=for-the-badge&logo=Naver&logoColor=ffffff">
+    </a>
 
 <a href="https://www.instagram.com/a._.agustj/" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
