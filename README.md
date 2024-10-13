@@ -68,6 +68,10 @@ Here are some ideas to get you started:
       <img src="http://img.shields.io/badge/Naver-32cd32?style=for-the-badge&logo=Naver&logoColor=ffffff">
     </a>
 
+<a href="https://aaahyunseo.tistory.com/" style="text-decoration: none; margin: 0 8px;">
+      <img src="http://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=ffffff">
+    </a>
+
 <a href="https://www.instagram.com/a._.agustj/" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
