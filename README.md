@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74b816,100:d8f5a2&height=300&section=header&fontColor=FFFFFF&text=Hyunseo's%20Github!&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:798d9a,100:d8f5a2&height=300&section=header&fontColor=FFFFFF&text=Hyunseo's%20Github!&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 <p align="center">
@@ -51,13 +51,20 @@ Here are some ideas to get you started:
 <div align="center" style="margin-top: 15px;">
 <h1> 🪄 Statistics 🪄 </h1>
 <div align="center">
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "49%" height="130%" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "48%" height="130%" />
+</div>
+</div>
+
+
+<div align="center" style="margin-top: 15px;">
+<h1> 🔮 Problem Solving 🔮 </h1>
+<div align="center">
   <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
 </div>
 </div>
 
-<div align="center" style="margin-top: 15px;">
 
+<div align="center" style="margin-top: 15px;">
 <h1> 🍀 SNS 🍀 </h1>
 <a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
       <img src="http://img.shields.io/badge/Naver-32cd32?style=for-the-badge&logo=Naver&logoColor=ffffff">
@@ -86,5 +93,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74b816,100:d8f5a2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:798d9a,100:d8f5a2&height=100&section=footer" />
 </div>
