@@ -51,14 +51,14 @@ Here are some ideas to get you started:
 <div align="center" style="margin-top: 15px;">
 <h1> 🪄 Statistics 🪄 </h1>
 <div align="center">
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=holi" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
 </div>
 </div>
 
 <div align="center" style="margin-top: 15px;">
 
-<h1> 👾 SNS 👾 </h1>
+<h1> 🍀 SNS 🍀 </h1>
 <a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
       <img src="http://img.shields.io/badge/Naver-32cd32?style=for-the-badge&logo=Naver&logoColor=ffffff">
     </a>
