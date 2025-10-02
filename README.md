@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="margin-top: 15px;">
-<h1>  💻 Tech Stack 💻  </h1>
+<h2>  💻 Tech Stack 💻  </h2>
 <h4 align="center"> Techs that I've used at least once</h4>
 </div>
 
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp <br>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>&nbsp <br>
@@ -58,38 +58,32 @@ Here are some ideas to get you started:
 
 
 <div align="center" style="margin-top: 15px;">
-<h1> 🪄 Statistics 🪄 </h1>
+<h2> 🔮 Statistics 🔮 </h2>
 <div align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "48%" height="130%" />
-</div>
-</div>
-
-
-<div align="center" style="margin-top: 15px;">
-<h1> 🔮 Problem Solving 🔮 </h1>
-<div align="center">
   <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
 </div>
 </div>
 
 
 <div align="center" style="margin-top: 15px;">
-<h1> 🍀 SNS 🍀 </h1>
-<a href="https://blog.naver.com/aaahyunseo_" style="text-decoration: none; margin: 0 8px;">
-      <img src="http://img.shields.io/badge/Naver-32cd32?style=for-the-badge&logo=Naver&logoColor=ffffff">
-    </a>
-
+<h2> 🍀 SNS 🍀 </h2>
 <a href="https://aaahyunseo.tistory.com/" style="text-decoration: none; margin: 0 8px;">
       <img src="http://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=ffffff">
-    </a>
+</a>
 
 <a href="https://www.instagram.com/a._.agustj/" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-    <a href="mailto:aaahyunseo@mju.ac.kr" style="text-decoration: none; margin: 0 8px;">
+
+<a href="mailto:aaahyunseo@mju.ac.kr" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
-            
+</a>
+
+<a href="https://beneficial-sphere-4d0.notion.site/Choi-HyunSeo-11b56645f2658011a049f5936cb9203d?source=copy_link" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
 </div>
 
 <br />
