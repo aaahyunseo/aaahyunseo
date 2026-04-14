@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 <div align="center" style="margin-top: 15px;">
 <h2> 🔮 Statistics 🔮 </h2>
 <div align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "48%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaahyunseo" width="42%" height="100%"/>
+  <!-- <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=aaahyunseo&show_icons=true&theme=shadow_green" width = "48%" height="130%" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aaahyunseo"/></a>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaahyunseo" width="42%" height="60%"/>
 </div>
 </div>
 
